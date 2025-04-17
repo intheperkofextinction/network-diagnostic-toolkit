@@ -1,5 +1,6 @@
-Network Diagnostic Toolkit Report
-Introduction
+# Network Diagnostic Toolkit Report
+
+## Introduction
 This toolkit contains a set of Bash scripts designed to perform basic network diagnostics and collect system logs for troubleshooting. The scripts include:
 
 Ping Test: To check connectivity to a specific host.
