@@ -1,0 +1,50 @@
+2025-04-17T12:44:42.558882+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds
+2025-04-17T12:44:42.558996+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[37mDEBUG#033[0m Updated systemd status to "Not connected: waiting to retry"
+2025-04-17T12:45:42.618957+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent
+2025-04-17T12:45:42.619349+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[37mDEBUG#033[0m Updated systemd status to "Connecting"
+2025-04-17T12:45:42.621161+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/amalm/.ubuntupro/.address": open /mnt/c/Users/amalm/.ubuntupro/.address: no such file or directory
+2025-04-17T12:45:42.621207+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds
+2025-04-17T12:45:42.621235+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[37mDEBUG#033[0m Updated systemd status to "Not connected: waiting to retry"
+2025-04-17T12:46:42.671457+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent
+2025-04-17T12:46:42.671689+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[37mDEBUG#033[0m Updated systemd status to "Connecting"
+2025-04-17T12:46:42.673231+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/amalm/.ubuntupro/.address": open /mnt/c/Users/amalm/.ubuntupro/.address: no such file or directory
+2025-04-17T12:46:42.673312+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds
+2025-04-17T12:46:42.673345+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[37mDEBUG#033[0m Updated systemd status to "Not connected: waiting to retry"
+2025-04-17T12:47:42.391580+00:00 LAPTOP-V4P855CU systemd[1]: Starting systemd-tmpfiles-clean.service - Cleanup of Temporary Directories...
+2025-04-17T12:47:42.458254+00:00 LAPTOP-V4P855CU systemd[1]: systemd-tmpfiles-clean.service: Deactivated successfully.
+2025-04-17T12:47:42.460591+00:00 LAPTOP-V4P855CU systemd[1]: Finished systemd-tmpfiles-clean.service - Cleanup of Temporary Directories.
+2025-04-17T12:47:42.733062+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent
+2025-04-17T12:47:42.733199+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[37mDEBUG#033[0m Updated systemd status to "Connecting"
+2025-04-17T12:47:42.735672+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/amalm/.ubuntupro/.address": open /mnt/c/Users/amalm/.ubuntupro/.address: no such file or directory
+2025-04-17T12:47:42.735771+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds
+2025-04-17T12:47:42.735880+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[37mDEBUG#033[0m Updated systemd status to "Not connected: waiting to retry"
+2025-04-17T12:48:42.795259+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent
+2025-04-17T12:48:42.795498+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[37mDEBUG#033[0m Updated systemd status to "Connecting"
+2025-04-17T12:48:42.797692+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/amalm/.ubuntupro/.address": open /mnt/c/Users/amalm/.ubuntupro/.address: no such file or directory
+2025-04-17T12:48:42.797776+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds
+2025-04-17T12:48:42.797811+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[37mDEBUG#033[0m Updated systemd status to "Not connected: waiting to retry"
+2025-04-17T12:49:42.857801+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent
+2025-04-17T12:49:42.858068+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[37mDEBUG#033[0m Updated systemd status to "Connecting"
+2025-04-17T12:49:42.859592+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/amalm/.ubuntupro/.address": open /mnt/c/Users/amalm/.ubuntupro/.address: no such file or directory
+2025-04-17T12:49:42.859663+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds
+2025-04-17T12:49:42.859696+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[37mDEBUG#033[0m Updated systemd status to "Not connected: waiting to retry"
+2025-04-17T12:50:42.911335+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent
+2025-04-17T12:50:42.911859+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[37mDEBUG#033[0m Updated systemd status to "Connecting"
+2025-04-17T12:50:42.913956+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/amalm/.ubuntupro/.address": open /mnt/c/Users/amalm/.ubuntupro/.address: no such file or directory
+2025-04-17T12:50:42.914049+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds
+2025-04-17T12:50:42.914164+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[37mDEBUG#033[0m Updated systemd status to "Not connected: waiting to retry"
+2025-04-17T12:51:42.974264+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent
+2025-04-17T12:51:42.974710+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[37mDEBUG#033[0m Updated systemd status to "Connecting"
+2025-04-17T12:51:42.976181+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/amalm/.ubuntupro/.address": open /mnt/c/Users/amalm/.ubuntupro/.address: no such file or directory
+2025-04-17T12:51:42.976225+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds
+2025-04-17T12:51:42.976251+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[37mDEBUG#033[0m Updated systemd status to "Not connected: waiting to retry"
+2025-04-17T12:52:43.036250+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent
+2025-04-17T12:52:43.039385+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[37mDEBUG#033[0m Updated systemd status to "Connecting"
+2025-04-17T12:52:43.039476+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/amalm/.ubuntupro/.address": open /mnt/c/Users/amalm/.ubuntupro/.address: no such file or directory
+2025-04-17T12:52:43.039489+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds
+2025-04-17T12:52:43.039505+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[37mDEBUG#033[0m Updated systemd status to "Not connected: waiting to retry"
+2025-04-17T12:53:43.099302+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent
+2025-04-17T12:53:43.099633+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[37mDEBUG#033[0m Updated systemd status to "Connecting"
+2025-04-17T12:53:43.101182+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/amalm/.ubuntupro/.address": open /mnt/c/Users/amalm/.ubuntupro/.address: no such file or directory
+2025-04-17T12:53:43.101234+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds
+2025-04-17T12:53:43.101328+00:00 LAPTOP-V4P855CU wsl-pro-service[158]: #033[37mDEBUG#033[0m Updated systemd status to "Not connected: waiting to retry"

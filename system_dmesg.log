@@ -1,0 +1,50 @@
+[    2.755311] FS-Cache: O-cookie d=00000000385157a1{9p.inode} n=0000000093c696b0
+[    2.756037] FS-Cache: O-key=[8] '2d60010000005f00'
+[    2.756410] FS-Cache: N-cookie c=0000000d [p=00000007 fl=2 nc=0 na=1]
+[    2.756868] FS-Cache: N-cookie d=00000000385157a1{9p.inode} n=0000000043440da2
+[    2.757424] FS-Cache: N-key=[8] '2d60010000005f00'
+[    2.829704] FS-Cache: Duplicate cookie detected
+[    2.830279] FS-Cache: O-cookie c=0000000f [p=00000007 fl=226 nc=0 na=1]
+[    2.830965] FS-Cache: O-cookie d=00000000385157a1{9p.inode} n=0000000061a9bfef
+[    2.832190] FS-Cache: O-key=[8] 'ed60010000001d00'
+[    2.832646] FS-Cache: N-cookie c=00000010 [p=00000007 fl=2 nc=0 na=1]
+[    2.833204] FS-Cache: N-cookie d=00000000385157a1{9p.inode} n=000000008725c7ea
+[    2.833816] FS-Cache: N-key=[8] 'ed60010000001d00'
+[    2.873283] FS-Cache: Duplicate cookie detected
+[    2.873916] FS-Cache: O-cookie c=00000012 [p=00000007 fl=226 nc=0 na=1]
+[    2.874393] FS-Cache: O-cookie d=00000000385157a1{9p.inode} n=000000003398bdcb
+[    2.874970] FS-Cache: O-key=[8] '0763010000004a00'
+[    2.875357] FS-Cache: N-cookie c=00000013 [p=00000007 fl=2 nc=0 na=1]
+[    2.875823] FS-Cache: N-cookie d=00000000385157a1{9p.inode} n=0000000099046b76
+[    2.876390] FS-Cache: N-key=[8] '0763010000004a00'
+[    3.155927] FS-Cache: Duplicate cookie detected
+[    3.156567] FS-Cache: O-cookie c=00000016 [p=00000002 fl=222 nc=0 na=1]
+[    3.157152] FS-Cache: O-cookie d=000000003f80c5c2{9P.session} n=000000005b73d44d
+[    3.157981] FS-Cache: O-key=[10] '34323934393337353932'
+[    3.158550] FS-Cache: N-cookie c=00000017 [p=00000002 fl=2 nc=0 na=1]
+[    3.159060] FS-Cache: N-cookie d=000000003f80c5c2{9P.session} n=000000000e7ff76f
+[    3.159588] FS-Cache: N-key=[10] '34323934393337353932'
+[    3.268735] FS-Cache: Duplicate cookie detected
+[    3.269234] FS-Cache: O-cookie c=00000018 [p=00000002 fl=222 nc=0 na=1]
+[    3.269935] FS-Cache: O-cookie d=000000003f80c5c2{9P.session} n=00000000d01a7de1
+[    3.270718] FS-Cache: O-key=[10] '34323934393337363033'
+[    3.271118] FS-Cache: N-cookie c=00000019 [p=00000002 fl=2 nc=0 na=1]
+[    3.271646] FS-Cache: N-cookie d=000000003f80c5c2{9P.session} n=00000000c1ac4524
+[    3.272172] FS-Cache: N-key=[10] '34323934393337363033'
+[    3.281320] WSL (2 - init-systemd(Ubuntu)) WARNING: /usr/share/zoneinfo/Asia/Calcutta not found. Is the tzdata package installed?
+[    3.484464] misc dxg: dxgk: dxgkio_is_feature_enabled: Ioctl failed: -22
+[    3.492864] misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22
+[    3.493594] misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22
+[    3.494192] misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22
+[    3.495169] misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -2
+[    3.497792] misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22
+[    3.498680] misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22
+[    3.499478] misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22
+[    3.500510] misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -2
+[    3.581284] Failed to connect to bus: No such file or directory
+[    3.746019] systemd-journald[52]: Collecting audit messages is disabled.
+[    3.794340] systemd-journald[52]: Received client request to flush runtime journal.
+[    3.795308] systemd-journald[52]: File /var/log/journal/c313617b3a1d4b01b9e18c11d7bcfe6c/system.journal corrupted or uncleanly shut down, renaming and replacing.
+[    7.066163] WSL (210) ERROR: CheckConnection: getaddrinfo() failed: -5
+[   49.439844] hv_balloon: Max. dynamic memory size: 7894 MB
+[  600.760703] mini_init (203): drop_caches: 1
